@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MiniAndroidApp11-GetAPI01</string>
+    <string name="tv_winfo_title">天気の詳細</string>
 </resources>
